@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    text-align: center;
+    margin: 20px;
+}
+marquee{
+    padding: 6px 13px;
+}
+
+#snake-game{
+    margin: 30px auto;
+    display: block;
+
+}
+
+
+
