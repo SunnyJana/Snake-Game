@@ -1,4 +1,4 @@
-### Notedown !
+### Snake Game by JavaScript !
 
 1. Square Arena, Canvas
 2. Creating a snake game body
@@ -10,5 +10,4 @@
 How do we make the animation ?
 Solution : Using a setInterval() function in javascript.
 
-### Step 1 : Create Arena
-    for
+Detailed Steps will be updated later.
