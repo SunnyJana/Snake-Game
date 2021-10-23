@@ -12,4 +12,4 @@
 How do we make animation ?
 Solution : Using a setInterval() function in javascript.
 
-Detailed Step will be updated.
+Detailed Step
