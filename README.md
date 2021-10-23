@@ -9,7 +9,7 @@
 5. Randomly shows food once current food get consumed
 6. On consuming food lengths must.
 
-How do we make the animation ?
+How do we make animation ?
 Solution : Using a setInterval() function in javascript.
 
 Detailed Step will be updated.
