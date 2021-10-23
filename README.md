@@ -4,7 +4,7 @@
 2. Creating the snake game body
 =======
 2. Creating a snake game
-3. Detect a snake body (detect 4 arrow keys only)
+3. Detect a snake(detect 4 arrow keys only)
 4. Audio Play
 5. Randomly shows food once current food get consumed
 6. On consuming food lengths must.
