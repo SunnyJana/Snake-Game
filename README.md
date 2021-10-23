@@ -10,4 +10,4 @@
 How do we make the animation ?
 Solution : Using a setInterval() function in javascript.
 
-Detailed Steps will be updated later.
+Detailed Step will be updated later.
