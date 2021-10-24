@@ -2,7 +2,7 @@
 
 1. Square Arena and Canvas
 2. Creating the snake game body
-=======
+========
 2. Creating a snake game
 3. Detect a snake(detect 4 arrow keys only)
 4. Audio Play
