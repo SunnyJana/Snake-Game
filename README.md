@@ -1,6 +1,6 @@
 ### Snake Game by JavaScript !
 
-1. Square Arena and Canvas
+1. Square Arena and Canvas 
 2. Creating the snake game body
 ========
 2. Creating a snake game
