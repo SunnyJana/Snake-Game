@@ -1,18 +1,18 @@
 *{
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
 }
 h3{
     text-align: center;
     margin: 20px;
 }
 marquee{
-    padding: 6px 13px;
+    padding: 24px 36px;
 }
 
 #snake-game{
-    margin: 30px auto;
-    display: block;
+    margin: 19px auto border;
+    display: absolute;
 
 }
 
