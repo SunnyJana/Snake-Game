@@ -7,12 +7,15 @@ h3{
     margin: 20px;
 }
 marquee{
-    padding: 24px 36px;
+    padding: 57px 76px;
 }
 
 #snake-game{
     margin: 19px auto border;
     display: absolute;
+    display: flex;
+    align-items: center;
+    
 
 }
 
