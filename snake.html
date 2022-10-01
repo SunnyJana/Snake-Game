@@ -15,7 +15,7 @@
 	<marquee><i>Snake game live demo&#x1F525; Session by Coding Club India team</i></marquee>
 	<p>Share your game screenshot on Linkedin after session with hashtags <b>#LearnInspireGrow #SnakeGame. Also add your name in Marquee.</b></p>
 	<script>
-		// Made with love by Rishabh Jain !
+		
 		var body = [];
 		var state = 0;// 0->right, 1->down, 2- left, 3 is up;
 
@@ -28,9 +28,9 @@
 		//step 2
 		function handleKey(e) {
 		    e = e || window.event;
-		    var play = false;
+		    var play = true;
 
-		    if (e.keyCode == '38'&&state!=1&&state!=3) {
+		    if (e.keyCode == '40'&&state!=1&&state!=5) {
 		        // up arrow
 		        state = 3;
 		        play = true;
